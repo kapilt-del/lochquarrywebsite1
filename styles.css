@@ -1,0 +1,31 @@
+body {
+    font-family: Arial;
+    background-color:yellow;
+}
+
+nav {
+    background-color:white;
+    padding: 10px;
+}
+
+nav a {
+    color: orangered;
+    margin-right: 15px;
+    text-decoration: white;
+}
+
+h1 {
+    color: black;
+}
+
+h2 {
+    color: red;
+}
+
+p {
+    font-size: 18px;
+}
+rope.html
+body { font-family: Ariel;
+     background-color: blue; }
+
